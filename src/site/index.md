@@ -1,6 +1,6 @@
 ---
-title: kams//media
-subtitle: We are design. We are development. We are digital.
+title: We are design. We are development. We are digital.
+subtitle: kams media.
 layout: layouts/base.njk
 ---
 
