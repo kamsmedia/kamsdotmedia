@@ -2,10 +2,6 @@
 layout: layouts/base.njk
 ---
 
-<h1>we are design.</h1>
-<h1>we are development.</h1>
-<h1>we are digital.</h1>
-
 <!--
 ## Post pages
 
