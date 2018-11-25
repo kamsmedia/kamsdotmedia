@@ -12,7 +12,7 @@ templateEngineOverride: njk, md
   {{ content | safe }}
   <div class="footnote">
     <p>
-      This page is part of the posts section.
+      This page is part of the posts section. Blah blah
     </p>
   </div>
 </main>
